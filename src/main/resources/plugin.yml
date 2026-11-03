@@ -2,7 +2,7 @@ name: DrakesTranslate
 version: 1.0.0
 main: cl.drakescraft.translate.DrakesTranslate
 api-version: '1.21'
-author: DrakesCraft-Labs
+author: SlimefunNewHorizons
 description: Plugin nativo de traducción de chat en tiempo real para DrakesCraft Network
 
 commands:

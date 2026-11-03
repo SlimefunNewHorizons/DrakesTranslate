@@ -55,7 +55,7 @@ mvn clean package
 El archivo `.jar` resultante se genera en `target/DrakesTranslate-1.0.0.jar`.
 
 ---
-© 2026 DrakesCraft Network · DrakesCraft-Labs
+© 2026 DrakesCraft Network · SlimefunNewHorizons
 
 ---
 
